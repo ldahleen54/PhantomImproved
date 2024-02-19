@@ -1,0 +1,5 @@
+name: PhantomImproved
+version: '${project.version}'
+main: ldahleen54.phantomimproved.PhantomImproved
+authors: [ ldahleen54 ]
+api-version: '1.20'
